@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PTSerif-Bold.ttf",
+      "sha1": "c3dcac3a033fad479dea6c2a9efa08e62d5c811e"
+    },
+    {
+      "path": "assets/fonts/PTSerif-BoldItalic.ttf",
+      "sha1": "0b45642405fcc041008fb3ccb368e9f007581e02"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Italic.ttf",
+      "sha1": "ca49374ff8aca5e3c7eef86e3b13f55c3c791715"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Regular.ttf",
+      "sha1": "3ab0ff64bb54eee7a9ce220b975c6059e7ffaad9"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "82241d42d4abc5eda794ca1af140b0e69543cffe"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Light.ttf",
+      "sha1": "b6d978adb86599ba35e5c97917b26f06e10c9361"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Medium.ttf",
+      "sha1": "bb6fc51ffb9d7b5cf567407095f75ddb4b13ca80"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "edfa7348d5686ab530f4e0a2feac6aa9bd02f09c"
+    },
+    {
+      "path": "assets/fonts/Quicksand-SemiBold.ttf",
+      "sha1": "4a0fed7f4392872594cdc50fead1510da1dcdac3"
+    }
+  ]
+}
