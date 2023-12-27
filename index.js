@@ -7,5 +7,6 @@ import App from './src/nav/RootStack';
 import {name as appName} from './app.json';
 import './src/config/AssetsConfig';
 import './src/config/FoundationConfig';
+// import App from './App';
 
 AppRegistry.registerComponent(appName, () => App);

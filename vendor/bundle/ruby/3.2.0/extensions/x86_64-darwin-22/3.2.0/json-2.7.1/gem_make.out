@@ -1,0 +1,16 @@
+current directory: /Users/rohitchahal/Desktop/JavaScript/triplan/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/rohitchahal/Desktop/JavaScript/triplan/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231227-28630-72s8tb sitelibdir\=./.gem.20231227-28630-72s8tb clean
+
+current directory: /Users/rohitchahal/Desktop/JavaScript/triplan/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231227-28630-72s8tb sitelibdir\=./.gem.20231227-28630-72s8tb
+make: Nothing to be done for `all'.
+
+current directory: /Users/rohitchahal/Desktop/JavaScript/triplan/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231227-28630-72s8tb sitelibdir\=./.gem.20231227-28630-72s8tb install
+
+current directory: /Users/rohitchahal/Desktop/JavaScript/triplan/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231227-28630-72s8tb sitelibdir\=./.gem.20231227-28630-72s8tb clean
