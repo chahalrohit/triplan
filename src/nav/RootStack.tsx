@@ -1,10 +1,14 @@
-import React, { useEffect } from 'react';
-import { LogBox, StatusBar } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator, TransitionPresets, CardStyleInterpolators } from '@react-navigation/stack';
+import React, {useEffect} from 'react';
+import {LogBox, StatusBar} from 'react-native';
+import {NavigationContainer} from '@react-navigation/native';
+import {
+  createStackNavigator,
+  TransitionPresets,
+  CardStyleInterpolators,
+} from '@react-navigation/stack';
 import RNBootSplash from 'react-native-bootsplash';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
-import Routes from 'config/Routes';
+import Routes from '../config/Routes';
 import OnboardingStack from './OnboardingStack';
 import MainBottomTab from './MainBottomTab';
 import SettingStack from './SettingStack';
@@ -127,19 +131,39 @@ const RootStack = () => {
           />
           <Stack.Screen name={Routes.WriteContent} component={WriteContent} />
           <Stack.Screen name={Routes.AddPlace} component={AddPlace} />
-          
+
           <Stack.Screen name={Routes.TripCover} component={TripDetailScreen} />
-          <Stack.Screen name={Routes.TripDetail} component={Trip} options={{
-            cardStyleInterpolator: CardStyleInterpolators.forFadeFromBottomAndroid
-          }} />
-          <Stack.Screen name={Routes.ProfileStack} component={MyProfileScreen} />
-          <Stack.Screen name={Routes.TripComment} component={TripCommentScreen} />
-          <Stack.Screen name={Routes.HotelAround} component={HotelAroundScreen} />
+          <Stack.Screen
+            name={Routes.TripDetail}
+            component={Trip}
+            options={{
+              cardStyleInterpolator:
+                CardStyleInterpolators.forFadeFromBottomAndroid,
+            }}
+          />
+          <Stack.Screen
+            name={Routes.ProfileStack}
+            component={MyProfileScreen}
+          />
+          <Stack.Screen
+            name={Routes.TripComment}
+            component={TripCommentScreen}
+          />
+          <Stack.Screen
+            name={Routes.HotelAround}
+            component={HotelAroundScreen}
+          />
           <Stack.Screen name={Routes.HotelList} component={HotelList} />
           <Stack.Screen name={Routes.TripRoutes} component={TripRoutesScreen} />
           <Stack.Screen name={Routes.RouteDetail} component={TripRouteDetail} />
-          <Stack.Screen name={Routes.ShareToFriend} component={ShareToFriendScreen} />
-          <Stack.Screen name={Routes.ImageQuote} component={PublishItemImageQuotes} />
+          <Stack.Screen
+            name={Routes.ShareToFriend}
+            component={ShareToFriendScreen}
+          />
+          <Stack.Screen
+            name={Routes.ImageQuote}
+            component={PublishItemImageQuotes}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>
