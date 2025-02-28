@@ -2,7 +2,7 @@ import React from 'react';
 import {StyleSheet, ScrollView, StatusBar} from 'react-native';
 import {View, Text, Colors, Image, Assets} from 'react-native-ui-lib';
 import {useNavigation} from '@react-navigation/native';
-import NavBar from 'components/NavBar';
+import NavBar from '../../components/NavBar';
 import {ICWeatherSun, ICAir, ICUmbrella, ICWind} from '../../assets/images';
 
 const DATA = [
