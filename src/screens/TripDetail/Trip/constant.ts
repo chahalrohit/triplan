@@ -211,8 +211,8 @@ const DATA_TRIP_DETAIL_DAY_3 = [
 const DATA: ArticleProps[] = [
   {
     name: 'Agnes Ingram',
-    avatar: require('../ ''../../assets/images'/img_avatar.png'),
-    thumbnail: require('../ ''../../assets/images'/thumbnail.png'),
+    avatar: require('../../../assets/images/img_avatar.png'),
+    thumbnail: require('../../../assets/images/thumbnail.png'),
     title: 'Top Things To See During A Holiday In Hong Kong',
     comments: '243',
     views: '15.2K',
@@ -222,8 +222,8 @@ const DATA: ArticleProps[] = [
   },
   {
     name: 'Harold Kelley',
-    avatar: require('../ ''../../assets/images'/img_avatar.png'),
-    thumbnail: require('../ ''../../assets/images'/thumbnail_1.png'),
+    avatar: require('../../../assets/images/img_avatar.png'),
+    thumbnail: require('../../../assets/images/thumbnail_1.png'),
     title: 'Will The Democrats Be Able To Reverse The Online Gambling Ban',
     comments: '1K',
     views: '15.2K',
@@ -233,8 +233,8 @@ const DATA: ArticleProps[] = [
   },
   {
     name: 'James Ross',
-    avatar: require('../ ''../../assets/images'/img_avatar.png'),
-    thumbnail: require('../ ''../../assets/images'/thumbnail_2.png'),
+    avatar: require('../../../assets/images/img_avatar.png'),
+    thumbnail: require('../../../assets/images/thumbnail_2.png'),
     title: 'Will The Democrats Be Able To Reverse The Online Gambling Ban',
     comments: '1K',
     views: '15.2K',

@@ -17,22 +17,22 @@ const DATA = [
   {
     type: MESSAGE_TYPES.SENDER,
     message: "It's going well! How about you?",
-    avatar: require(''../../assets/images/img_avatar_5.png'),
+    avatar: require('../../assets/images/img_avatar_5.png'),
   },
   {
     type: MESSAGE_TYPES.SENDER,
     message: 'What do you do for a living?',
-    avatar: require(''../../assets/images/img_avatar_5.png'),
+    avatar: require('../../assets/images/img_avatar_5.png'),
   },
   {
     type: MESSAGE_TYPES.RECEIVER,
     message: "Hello, My name's Agnes.\nNice to meet you!",
-    avatar: require(''../../assets/images/img_avatar.png'),
+    avatar: require('../../assets/images/img_avatar.png'),
   },
   {
     type: MESSAGE_TYPES.RECEIVER,
     message: "Hello, My name's Agnes.\nNice to meet you!",
-    avatar: require(''../../assets/images/img_avatar.png'),
+    avatar: require('../../assets/images/img_avatar.png'),
   },
 ];
 
