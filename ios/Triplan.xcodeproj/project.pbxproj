@@ -12,6 +12,15 @@
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		83DA1BA171ED46CC327EBE76 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		3EBE07BCC9C94E3B8FE59427 /* PTSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */; };
+		495E055B4550460EB2F0E4AF /* PTSerif-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */; };
+		E395A0437ACE4695BEEB2A24 /* PTSerif-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */; };
+		1E972EB61C2F4DBCBB3C382F /* PTSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */; };
+		FA13A35CD0A944B48E86217C /* Quicksand-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */; };
+		B7CFE0848C9540A58C01A554 /* Quicksand-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */; };
+		8DE5C9746F2445F3AE75652F /* Quicksand-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */; };
+		D55DECD818CB4D7583236461 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */; };
+		9C9410C58FC94067A3490499 /* Quicksand-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +34,15 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = triplan/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = triplan/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */ = {isa = PBXFileReference; name = "PTSerif-Bold.ttf"; path = "../src/assets/fonts/PTSerif-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */ = {isa = PBXFileReference; name = "PTSerif-BoldItalic.ttf"; path = "../src/assets/fonts/PTSerif-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */ = {isa = PBXFileReference; name = "PTSerif-Italic.ttf"; path = "../src/assets/fonts/PTSerif-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */ = {isa = PBXFileReference; name = "PTSerif-Regular.ttf"; path = "../src/assets/fonts/PTSerif-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */ = {isa = PBXFileReference; name = "Quicksand-Bold.ttf"; path = "../src/assets/fonts/Quicksand-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */ = {isa = PBXFileReference; name = "Quicksand-Light.ttf"; path = "../src/assets/fonts/Quicksand-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */ = {isa = PBXFileReference; name = "Quicksand-Medium.ttf"; path = "../src/assets/fonts/Quicksand-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; name = "Quicksand-Regular.ttf"; path = "../src/assets/fonts/Quicksand-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */ = {isa = PBXFileReference; name = "Quicksand-SemiBold.ttf"; path = "../src/assets/fonts/Quicksand-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +93,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A3992A79DFD84CD1945300FB /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -97,6 +116,23 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		A3992A79DFD84CD1945300FB /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */,
+				2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */,
+				54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */,
+				FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */,
+				90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */,
+				356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */,
+				DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */,
+				16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */,
+				2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -128,7 +164,8 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1210;
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
 					13B07F861A680F5B00A75B9A = {
 						LastSwiftMigration = 1120;
@@ -161,6 +198,15 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				83DA1BA171ED46CC327EBE76 /* PrivacyInfo.xcprivacy in Resources */,
+				3EBE07BCC9C94E3B8FE59427 /* PTSerif-Bold.ttf in Resources */,
+				495E055B4550460EB2F0E4AF /* PTSerif-BoldItalic.ttf in Resources */,
+				E395A0437ACE4695BEEB2A24 /* PTSerif-Italic.ttf in Resources */,
+				1E972EB61C2F4DBCBB3C382F /* PTSerif-Regular.ttf in Resources */,
+				FA13A35CD0A944B48E86217C /* Quicksand-Bold.ttf in Resources */,
+				B7CFE0848C9540A58C01A554 /* Quicksand-Light.ttf in Resources */,
+				8DE5C9746F2445F3AE75652F /* Quicksand-Medium.ttf in Resources */,
+				D55DECD818CB4D7583236461 /* Quicksand-Regular.ttf in Resources */,
+				9C9410C58FC94067A3490499 /* Quicksand-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +306,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SF5B8679N8;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = triplan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
@@ -288,6 +335,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SF5B8679N8;
 				INFOPLIST_FILE = triplan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -340,6 +388,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -420,6 +469,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -454,6 +504,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
