@@ -9,18 +9,18 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-triplan.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-triplan.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		1E972EB61C2F4DBCBB3C382F /* PTSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */; };
+		3EBE07BCC9C94E3B8FE59427 /* PTSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */; };
+		495E055B4550460EB2F0E4AF /* PTSerif-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		83DA1BA171ED46CC327EBE76 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
-		3EBE07BCC9C94E3B8FE59427 /* PTSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */; };
-		495E055B4550460EB2F0E4AF /* PTSerif-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */; };
-		E395A0437ACE4695BEEB2A24 /* PTSerif-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */; };
-		1E972EB61C2F4DBCBB3C382F /* PTSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */; };
-		FA13A35CD0A944B48E86217C /* Quicksand-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */; };
-		B7CFE0848C9540A58C01A554 /* Quicksand-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */; };
 		8DE5C9746F2445F3AE75652F /* Quicksand-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */; };
-		D55DECD818CB4D7583236461 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */; };
 		9C9410C58FC94067A3490499 /* Quicksand-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */; };
+		B7CFE0848C9540A58C01A554 /* Quicksand-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */; };
+		D55DECD818CB4D7583236461 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */; };
+		E395A0437ACE4695BEEB2A24 /* PTSerif-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */; };
+		FA13A35CD0A944B48E86217C /* Quicksand-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,21 +28,21 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = triplan/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = triplan/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = triplan/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Quicksand-Regular.ttf"; path = "../src/assets/fonts/Quicksand-Regular.ttf"; sourceTree = "<group>"; };
+		2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PTSerif-BoldItalic.ttf"; path = "../src/assets/fonts/PTSerif-BoldItalic.ttf"; sourceTree = "<group>"; };
+		2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Quicksand-SemiBold.ttf"; path = "../src/assets/fonts/Quicksand-SemiBold.ttf"; sourceTree = "<group>"; };
+		356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Quicksand-Light.ttf"; path = "../src/assets/fonts/Quicksand-Light.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-triplan.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-triplan.debug.xcconfig"; path = "Target Support Files/Pods-triplan/Pods-triplan.debug.xcconfig"; sourceTree = "<group>"; };
+		54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PTSerif-Italic.ttf"; path = "../src/assets/fonts/PTSerif-Italic.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-triplan.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-triplan.release.xcconfig"; path = "Target Support Files/Pods-triplan/Pods-triplan.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-triplan.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-triplan.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = triplan/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = triplan/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Quicksand-Bold.ttf"; path = "../src/assets/fonts/Quicksand-Bold.ttf"; sourceTree = "<group>"; };
+		DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Quicksand-Medium.ttf"; path = "../src/assets/fonts/Quicksand-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */ = {isa = PBXFileReference; name = "PTSerif-Bold.ttf"; path = "../src/assets/fonts/PTSerif-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */ = {isa = PBXFileReference; name = "PTSerif-BoldItalic.ttf"; path = "../src/assets/fonts/PTSerif-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		54B82928A8DB43E695939276 /* PTSerif-Italic.ttf */ = {isa = PBXFileReference; name = "PTSerif-Italic.ttf"; path = "../src/assets/fonts/PTSerif-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */ = {isa = PBXFileReference; name = "PTSerif-Regular.ttf"; path = "../src/assets/fonts/PTSerif-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		90963DBCDE7744BB9B147EB8 /* Quicksand-Bold.ttf */ = {isa = PBXFileReference; name = "Quicksand-Bold.ttf"; path = "../src/assets/fonts/Quicksand-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		356AEF3A703E4D62A3A47C75 /* Quicksand-Light.ttf */ = {isa = PBXFileReference; name = "Quicksand-Light.ttf"; path = "../src/assets/fonts/Quicksand-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DC66A62E55CE47C795750798 /* Quicksand-Medium.ttf */ = {isa = PBXFileReference; name = "Quicksand-Medium.ttf"; path = "../src/assets/fonts/Quicksand-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		16035080A31C4765A6CBBA38 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; name = "Quicksand-Regular.ttf"; path = "../src/assets/fonts/Quicksand-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */ = {isa = PBXFileReference; name = "Quicksand-SemiBold.ttf"; path = "../src/assets/fonts/Quicksand-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PTSerif-Bold.ttf"; path = "../src/assets/fonts/PTSerif-Bold.ttf"; sourceTree = "<group>"; };
+		FBE06C0FE8FB4F679DAD0B5F /* PTSerif-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PTSerif-Regular.ttf"; path = "../src/assets/fonts/PTSerif-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,17 +108,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3B4392A12AC88292D35C810B /* Pods-triplan.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-triplan.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		A3992A79DFD84CD1945300FB /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				F1D6E9E46C2040A7BF0D9ADA /* PTSerif-Bold.ttf */,
 				2249F1CA730143628C2ABF59 /* PTSerif-BoldItalic.ttf */,
@@ -131,8 +122,17 @@
 				2E50B4CAC6F6435AB8B36B6B /* Quicksand-SemiBold.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-triplan.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-triplan.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
