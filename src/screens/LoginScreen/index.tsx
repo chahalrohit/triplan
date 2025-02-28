@@ -22,7 +22,7 @@ import NavBar from 'components/NavBar';
 import InputText from 'components/InputText';
 import BaseButton from 'components/BaseButton';
 import {height, heightHeader} from 'config/scaleAccordingToDevice';
-import {FaceId} from 'images';
+import {FaceId} from '../../assets/images';
 import useToggle from 'hooks/useToggle';
 import Routes from '../../config/Routes';
 

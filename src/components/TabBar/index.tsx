@@ -23,7 +23,7 @@ import {
   SearchCityActive,
   TabBookmarkActive,
   TabBookmark,
-} from 'images';
+} from '../../assets/images';
 import {useNetInfo} from '@react-native-community/netinfo';
 
 const ICON = {
@@ -146,8 +146,8 @@ const MyTabBar = ({state, descriptors, navigation, tabName}: any) => {
             {name === Routes.SearchTravelGuide
               ? 'Search'
               : name === Routes.CityStack
-              ? 'City'
-              : name}
+                ? 'City'
+                : name}
           </Text>
         </View>
       );

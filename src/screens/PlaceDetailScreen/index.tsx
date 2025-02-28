@@ -12,7 +12,7 @@ import NavBar from 'components/NavBar';
 import {useNavigation, useRoute} from '@react-navigation/native';
 import {width, height, darkStyle} from 'config/scaleAccordingToDevice';
 import {description, FACILITIES, DATA, DATA_CAROUSEL} from './data';
-import {BookmarkWhite} from 'images';
+import {BookmarkWhite} from '../../assets/images';
 import Routes from 'config/Routes';
 import MapView, {
   PROVIDER_GOOGLE,
